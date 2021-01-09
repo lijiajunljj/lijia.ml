@@ -1,0 +1,5 @@
+没啥用的一个网站和域名
+
+可以发送邮箱至[lijia@lijia.ml](mailto:lijia@lijia.ml)
+
+或许可以做个[网站](https://lijiajunljj.github.io)的彩蛋内容之一而存在？
