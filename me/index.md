@@ -8,4 +8,4 @@
 
 我在百度搜[我自己](https://www.baidu.com/s?wd=lijiakaijun)
 
-[一些东西](https://lijia.ml/base64)
+[一些东西](https://lijia.ml/me/base64)
